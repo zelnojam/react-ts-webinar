@@ -17,7 +17,6 @@ const Sidebar: React.FC<SidebarProps> = ({ routes }) => {
   const [collapse, setCollapse] = useState<boolean>(false);
   const { pathname } = useLocation();
 
-  console.log(pathname);
   return (
     <Layout.Sider
       style={{ minHeight: "100vh" }}
