@@ -1,4 +1,4 @@
-# Required Output for UI design using JS
+## Required Output for UI design using JS
 
 # Getting Started with Create React App
 
